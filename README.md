@@ -1,7 +1,7 @@
 
 <a href="#"><img width="1400px" height="600px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" height="0px"/></a>
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me KUSUMA PEDIREDLA</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me AISHWARYA SAWANT</h1>
 <h3 align="center">I'm Computer Science and Engineer from India.</h3>
 
 
